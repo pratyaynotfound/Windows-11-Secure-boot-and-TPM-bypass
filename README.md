@@ -15,7 +15,7 @@
 - Exit the installation process.
 
 ### Step 3:
-- Restart the installation process
+- Restart the installation process.
 
 ## System Requirements:
 
