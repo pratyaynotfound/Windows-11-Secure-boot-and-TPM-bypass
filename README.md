@@ -3,9 +3,9 @@
 ## Steps:
 
 ### Step 1:
-- Make a bootable pendrive with Windows 11 iso
-- Boot with the drive
-- Select language and hit install
+- Create a bootable USB drive using the Windows 11 ISO.
+- Boot your computer using the USB drive.
+- Choose your preferred language and proceed further.
 
 ### Step 2:
 - When it says this device is not supported for Windows 11
