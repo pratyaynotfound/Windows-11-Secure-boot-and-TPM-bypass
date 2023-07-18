@@ -3,20 +3,19 @@
 ## Steps:
 
 ### Step 1:
-- Make a bootable pendrive with Windows 11 iso
-- Boot with the drive
-- Select language and hit install
+- Create a bootable USB drive using the Windows 11 ISO.
+- Boot your computer using the USB drive.
+- Choose your preferred language and proceed further.
 
 ### Step 2:
-- When it says this device is not supported for Windows 11
-- Press `Shift + F10` and a command prompt will open
-- Type `notepad` and hit enter
-- Go to the boot drive and select all files from below instead of a text file
-- Right-click on the TPM bypass file and hit merge
-- Quit the installation
+- If you encounter the message stating that your device is not supported for Windows 11, press `Shift + F10` to open a command prompt.
+- Type `notepad` and press Enter.
+- Navigate to the boot drive and select all the files located below (rather than a text file).
+- Right-click on the TPM bypass file and choose `Merge`.
+- Exit the installation process.
 
 ### Step 3:
-- Restart the installation process
+- Restart the installation process.
 
 ## System Requirements:
 
