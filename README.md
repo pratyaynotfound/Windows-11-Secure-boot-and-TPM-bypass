@@ -16,11 +16,3 @@
 
 ### Step 3:
 - Restart the installation process.
-
-## System Requirements:
-  - Number of Cores: 2 or more
-  - Processor Frequency: 1 gigahertz (GHz) or faster
-  - Architecture: 64-bit processor or System on a Chip (SoC)
-  - System Memory: 4 gigabytes (GB)
-  - Storage: 64 GB or larger storage device
-
