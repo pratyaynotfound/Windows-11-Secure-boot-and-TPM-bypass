@@ -18,8 +18,6 @@
 - Restart the installation process.
 
 ## System Requirements:
-
-  - Hardware Requirements:
   - Number of Cores: 2 or more
   - Processor Frequency: 1 gigahertz (GHz) or faster
   - Architecture: 64-bit processor or System on a Chip (SoC)
