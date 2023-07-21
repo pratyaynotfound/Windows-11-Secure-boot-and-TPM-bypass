@@ -16,3 +16,7 @@
 
 ### Step 3:
 - Restart the installation process.
+
+<!-- Authors -->
+## Contributors
+<a href="https://github.com/pratyaynotfound/Windows-11-Secure-boot-and-TPM-bypass/contributors"><img src="https://contrib.rocks/image?repo=pratyaynotfound/Windows-11-Secure-boot-and-TPM-bypass"></a>
