@@ -4,6 +4,7 @@
 
 ### Step 1:
 - Create a bootable USB drive using the Windows 11 ISO.
+- copy this reg file in the bootable ISO.
 - Boot your computer using the USB drive.
 - Choose your preferred language and proceed further.
 
